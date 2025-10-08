@@ -1,0 +1,9 @@
+ircserv
+.vscode
+objs
+.ccls-cache
+.replit
+vgcore.*
+wall-e
+.env
+memosend.txt
